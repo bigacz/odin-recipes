@@ -1,2 +1,2 @@
 # odin-recipes
-ok
+idk headings boilerplate and lists probably
